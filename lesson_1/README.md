@@ -1,16 +1,11 @@
 # lesson_1
 
-A new Flutter project.
+Приложение с фильмами
 
-## Getting Started
+## Описание
 
-This project is a starting point for a Flutter application.
+Сделал основное и доп задания они реализованы в классах abstractFilm, Film, films,![image](https://user-images.githubusercontent.com/63067618/162636171-6d6e4d43-9716-4405-beba-74a5aa9b65b9.png)
+ так же был реализован интерфейс для взаимодействия с пользователем
+ ![image](https://user-images.githubusercontent.com/63067618/162636199-aa08e2f6-194d-42fb-a09a-4474fb4cefdb.png)
+![image](https://user-images.githubusercontent.com/63067618/162636213-a5198925-bed0-4afd-8196-ab3d55b5e643.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
